@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! 👋
 I'm Vanshika Sharma, a passionate and curious Data Analyst and Marketing Research Professional with a knack for transforming data into actionable insights. 
 I love working with data, finding patterns, and helping businesses make data-driven decisions.
 
